@@ -1,5 +1,5 @@
 {
-  "name": "web-components",
+  "name": "@local/web-components",
   "version": "0.11.11111",
   "main": "index.js",
   "dependencies": {},
